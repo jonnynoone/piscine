@@ -88,3 +88,6 @@ Feb 03 15:36	The file's mtime (date and time when the file was last modified).
 
 - Use *wc* to print newline, word, and byte counts for each file
 - *wc -l* will just print the number of lines
+
+- Use *sort* to order things
+- *sort -r* sort in reverse order
